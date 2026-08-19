@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CP Hypermarket AI Robot Control Room OS</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="starfield" aria-hidden="true"></div>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="cp-logo">CP</div>
+        <div>
+          <strong>CP HYPERMARKET</strong>
+          <span>AI ROBOT CONTROL</span>
+        </div>
+      </div>
+
+      <nav id="sidebarNav" class="nav" aria-label="Main navigation"></nav>
+
+      <section class="sidebar-robot">
+        <img src="public/references/robot-mascot.png" alt="CP Sampling Robot" />
+        <h3>CP Sampling Robot</h3>
+        <p>พร้อมให้บริการ / Online</p>
+        <b class="badge green">Online</b>
+      </section>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div>
+          <section class="title-wrap">
+            <span id="pageIcon" class="page-icon">⌂</span>
+            <div>
+              <p id="pageGroup" class="eyebrow">Control Center</p>
+              <h1 id="pageTitle">ศูนย์ควบคุมหุ่นยนต์</h1>
+              <span id="pageSubtitle">Robot Control Center</span>
+            </div>
+          </section>
+        </div>
+        <div class="top-actions">
+          <label class="search">⌕ <input placeholder="ค้นหา... / Search" /></label>
+          <button type="button" class="pill">วันนี้ / Today</button>
+          <button type="button" class="icon-btn">☾</button>
+          <button type="button" class="icon-btn notify">●<i>3</i></button>
+          <button type="button" class="profile">
+            <img src="public/references/asset-mascot-standing.png.png" alt="" />
+            <span>ผู้ดูแลระบบ<small>Admin</small></span>
+          </button>
+        </div>
+      </header>
+
+      <section id="pageRoot" class="page-root" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

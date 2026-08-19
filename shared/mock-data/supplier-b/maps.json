@@ -1,0 +1,14 @@
+{
+  "maps": [
+    { "siteId": "BKK-BANGNA", "revision": "B-REV-11", "level": "G", "layout": { "areas": ["entrance", "beverage", "frozen", "fresh", "mini_corner", "promotion", "checkout", "charging"], "route": [{ "x": 8, "y": 70 }, { "x": 20, "y": 58 }, { "x": 46, "y": 47 }, { "x": 68, "y": 57 }, { "x": 86, "y": 45 }, { "x": 95, "y": 45 }] } },
+    { "siteId": "BKK-RANGSIT", "revision": "B-REV-11", "level": "G", "layout": { "areas": ["entrance", "beverage", "household", "frozen", "checkout", "charging"], "route": [{ "x": 10, "y": 72 }, { "x": 23, "y": 62 }, { "x": 39, "y": 50 }, { "x": 62, "y": 50 }, { "x": 79, "y": 60 }, { "x": 90, "y": 48 }] } },
+    { "siteId": "CNX-MUEANG", "revision": "B-REV-12", "level": "G", "layout": { "areas": ["entrance", "fresh", "bakery", "frozen", "charging"], "route": [{ "x": 9, "y": 69 }, { "x": 26, "y": 54 }, { "x": 43, "y": 38 }, { "x": 61, "y": 44 }, { "x": 88, "y": 48 }] } },
+    { "siteId": "HDY-CENTRAL", "revision": "B-REV-12", "level": "G", "layout": { "areas": ["entrance", "mini_corner", "promotion", "checkout", "charging"], "route": [{ "x": 8, "y": 71 }, { "x": 25, "y": 59 }, { "x": 50, "y": 55 }, { "x": 62, "y": 45 }, { "x": 91, "y": 45 }] } },
+    { "siteId": "KKC-MITTRAPHAP", "revision": "B-REV-13", "level": "G", "layout": { "areas": ["entrance", "frozen", "beverage", "household", "checkout", "charging"], "route": [{ "x": 11, "y": 70 }, { "x": 28, "y": 56 }, { "x": 47, "y": 48 }, { "x": 65, "y": 58 }, { "x": 86, "y": 47 }] } },
+    { "siteId": "PKT-BYPASS", "revision": "B-REV-13", "level": "G", "layout": { "areas": ["entrance", "fresh", "seafood", "frozen", "checkout", "charging"], "route": [{ "x": 10, "y": 69 }, { "x": 25, "y": 52 }, { "x": 44, "y": 45 }, { "x": 66, "y": 55 }, { "x": 88, "y": 44 }] } },
+    { "siteId": "PTY-NORTH", "revision": "B-REV-13", "level": "G", "layout": { "areas": ["entrance", "promotion", "snacks", "beverage", "checkout", "charging"], "route": [{ "x": 9, "y": 72 }, { "x": 22, "y": 55 }, { "x": 39, "y": 50 }, { "x": 58, "y": 42 }, { "x": 82, "y": 50 }] } },
+    { "siteId": "NMA-KORAT", "revision": "B-REV-14", "level": "G", "layout": { "areas": ["entrance", "fresh", "frozen", "household", "checkout", "charging"], "route": [{ "x": 8, "y": 70 }, { "x": 21, "y": 61 }, { "x": 42, "y": 49 }, { "x": 63, "y": 52 }, { "x": 89, "y": 46 }] } },
+    { "siteId": "SRT-MUEANG", "revision": "B-REV-14", "level": "G", "layout": { "areas": ["entrance", "fresh", "beverage", "bakery", "checkout", "charging"], "route": [{ "x": 12, "y": 73 }, { "x": 29, "y": 60 }, { "x": 48, "y": 48 }, { "x": 70, "y": 52 }, { "x": 90, "y": 43 }] } },
+    { "siteId": "UBN-CITY", "revision": "B-REV-14", "level": "G", "layout": { "areas": ["entrance", "frozen", "snacks", "mini_corner", "checkout", "charging"], "route": [{ "x": 9, "y": 70 }, { "x": 24, "y": 56 }, { "x": 45, "y": 51 }, { "x": 67, "y": 44 }, { "x": 91, "y": 46 }] } }
+  ]
+}

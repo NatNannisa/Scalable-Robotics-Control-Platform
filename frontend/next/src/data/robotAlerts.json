@@ -1,0 +1,5 @@
+[
+  { "alert_id": "ALERT-001", "branch_id": "BR-CHIANGMAI", "robot_id": "CP-BOT-02", "campaign_id": "CMP-MISSION-SPACE", "zone_id": "ZONE-PROMO", "alert_type": "obstacle_detected", "severity": "warning", "status": "live", "message": "Obstacle detected in Promotion Zone", "created_at": "2026-06-13T10:12:12+07:00", "owner": "Store Operations" },
+  { "alert_id": "ALERT-002", "branch_id": "BR-CHIANGMAI", "robot_id": "CP-BOT-02", "campaign_id": "CMP-MISSION-SPACE", "zone_id": "ZONE-PROMO", "alert_type": "battery_low", "severity": "warning", "status": "pending", "message": "Battery trending below preferred operating level", "created_at": "2026-06-13T10:15:01+07:00", "owner": "Robot Support" },
+  { "alert_id": "ALERT-003", "branch_id": "BR-ONLINE-TEST", "robot_id": "CP-BOT-01", "campaign_id": "CMP-SHRIMPY-JOY", "zone_id": "ZONE-FROZEN", "alert_type": "stream_disconnected", "severity": "critical", "status": "resolved", "message": "Online HLS stream disconnected and recovered", "created_at": "2026-06-13T10:12:22+07:00", "owner": "Control Room" }
+]

@@ -1,0 +1,8 @@
+{
+  "alarms": [
+    { "alarmId": "B-A-3101", "siteId": "CNX-MUEANG", "unitSerial": "B-UNIT-9003", "category": "battery", "level": "major", "state": "new", "openedOn": "2026-07-07T10:28:30+07:00", "text": "Power is below configured route threshold" },
+    { "alarmId": "B-A-3102", "siteId": "HDY-CENTRAL", "unitSerial": "B-UNIT-9004", "category": "navigation", "level": "critical", "state": "new", "openedOn": "2026-07-07T10:27:54+07:00", "text": "Navigation blocked by obstacle" },
+    { "alarmId": "B-A-3103", "siteId": "KKC-MITTRAPHAP", "unitSerial": "B-UNIT-9005", "category": "connectivity", "level": "minor", "state": "seen", "openedOn": "2026-07-07T09:46:10+07:00", "text": "Device heartbeat stale" },
+    { "alarmId": "B-A-BAD", "siteId": "PKT-BYPASS", "unitSerial": "B-UNIT-9006", "category": "connectivity", "level": "unknown", "state": "new", "_fixtureCase": "unknown_severity" }
+  ]
+}

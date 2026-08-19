@@ -1,0 +1,5 @@
+[
+  { "ticket_id": "supplier-a:A-TKT-5001", "supplier_id": "supplier-a", "source_ticket_id": "A-TKT-5001", "alert_id": "supplier-a:A-ALR-9001", "branch_id": "CPH-CNX-001", "robot_id": "CPH-CNX-001-R01", "priority": "p2", "status": "assigned", "queue": "Robot Ops", "created_at": "2026-07-07T10:22:00+07:00", "resolved_at": null },
+  { "ticket_id": "supplier-b:B-C-8802", "supplier_id": "supplier-b", "source_ticket_id": "B-C-8802", "alert_id": "supplier-b:B-A-3102", "branch_id": "CPH-HDY-001", "robot_id": "CPH-HDY-001-R01", "priority": "p1", "status": "assigned", "queue": "south-store-support", "created_at": "2026-07-07T10:28:20+07:00", "resolved_at": null },
+  { "ticket_id": "supplier-c:C-T-903", "supplier_id": "supplier-c", "source_ticket_id": "C-T-903", "alert_id": "supplier-c:C-A-703", "branch_id": "CPH-KKC-001", "robot_id": "CPH-KKC-001-R01", "priority": "p3", "status": "resolved", "queue": "NETWORK", "created_at": "2026-07-07T09:48:00+07:00", "resolved_at": "2026-07-07T10:16:00+07:00" }
+]

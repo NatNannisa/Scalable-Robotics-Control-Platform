@@ -1,0 +1,6 @@
+[
+  { "ticket_id": "A-TKT-5001", "alert_no": "A-ALR-9001", "branch_code": "CPH-CNX-001", "robot_id": "A-RBT-003", "queue": "Robot Ops", "vendor_status": "ASSIGNED", "priority": "P2", "created_at": "2026-07-07T10:22:00+07:00", "assignee": "cp-robot-ops-north" },
+  { "ticket_id": "A-TKT-5002", "alert_no": "A-ALR-9002", "branch_code": "CPH-HDY-001", "robot_id": "A-RBT-004", "queue": "Store Support", "vendor_status": "NEW", "priority": "P1", "created_at": "2026-07-07T10:20:40+07:00", "assignee": null },
+  { "ticket_id": "A-TKT-5003", "alert_no": "A-ALR-9003", "branch_code": "CPH-KKC-001", "robot_id": "A-RBT-005", "queue": "Network", "vendor_status": "RESOLVED", "priority": "P3", "created_at": "2026-07-07T09:50:00+07:00", "resolved_at": "2026-07-07T10:18:12+07:00", "assignee": "cp-network-northeast" },
+  { "ticket_id": "A-TKT-BAD", "alert_no": "A-ALR-BAD", "branch_code": "CPH-PKT-001", "robot_id": null, "queue": "Robot Ops", "vendor_status": "NEW", "_fixture_case": "missing_robot_id" }
+]

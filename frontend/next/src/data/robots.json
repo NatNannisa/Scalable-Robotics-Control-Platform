@@ -1,0 +1,45 @@
+[
+  {
+    "robot_id": "CP-BOT-01",
+    "robot_name": "Nong Chim 01",
+    "model": "CP AI Sampling Robot v1.0",
+    "branch_id": "BR-BANGNA",
+    "campaign_id": "CMP-SHRIMPY-JOY",
+    "route_id": "ROUTE-BANGNA-FROZEN",
+    "camera_id": "CAM-BANGNA-001",
+    "status": "online",
+    "current_zone_id": "ZONE-FROZEN",
+    "current_zone": "Frozen Food",
+    "current_action": "Invitation Script Playing",
+    "battery_percent": 82,
+    "signal_percent": 94,
+    "signal_strength": "strong",
+    "safety_status": "safe",
+    "speed_mps": 0.8,
+    "temperature_c": 39,
+    "route_progress_percent": 68,
+    "last_seen": "2026-06-13T10:20:01+07:00"
+  },
+  {
+    "robot_id": "CP-BOT-02",
+    "robot_name": "Nong Chim 02",
+    "model": "CP AI Sampling Robot v1.0",
+    "branch_id": "BR-CHIANGMAI",
+    "campaign_id": "CMP-MISSION-SPACE",
+    "route_id": "ROUTE-CNX-PROMO",
+    "camera_id": "CAM-CHIANGMAI-001",
+    "status": "warning",
+    "current_zone_id": "ZONE-PROMO",
+    "current_zone": "Promotion Zone",
+    "current_action": "Route Moving",
+    "battery_percent": 54,
+    "signal_percent": 72,
+    "signal_strength": "medium",
+    "safety_status": "warning",
+    "speed_mps": 0.6,
+    "temperature_c": 42,
+    "route_progress_percent": 44,
+    "last_seen": "2026-06-13T10:20:01+07:00"
+  }
+]
+

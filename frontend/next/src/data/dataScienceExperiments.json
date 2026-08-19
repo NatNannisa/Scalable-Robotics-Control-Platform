@@ -1,0 +1,5 @@
+[
+  { "experiment_id": "EXP-001", "type": "A/B Test", "title": "Script Tone Test", "owner": "AI Expert Lab", "status": "running", "campaign_id": "CMP-SHRIMPY-JOY", "metric": "sampling_conversion", "control_score": 27.6, "variant_score": 31.8, "progress_percent": 72 },
+  { "experiment_id": "EXP-002", "type": "Optimization", "title": "Route Spacing Optimization", "owner": "AI Expert Lab", "status": "running", "campaign_id": "CMP-MISSION-SPACE", "metric": "route_success_rate", "control_score": 88.1, "variant_score": 94.1, "progress_percent": 68 },
+  { "experiment_id": "EXP-003", "type": "Model Tuning", "title": "Detection Confidence Tuning", "owner": "AI Expert Lab", "status": "pending", "campaign_id": "CMP-SHRIMPY-JOY", "metric": "model_accuracy", "control_score": 90.2, "variant_score": 92.4, "progress_percent": 54 }
+]

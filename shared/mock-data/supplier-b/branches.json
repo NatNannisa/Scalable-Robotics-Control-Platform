@@ -1,0 +1,16 @@
+{
+  "supplier": "B",
+  "generatedAt": "2026-07-07T10:30:00+07:00",
+  "sites": [
+    { "siteId": "BKK-BANGNA", "displayName": "CP Hypermarket Bangna", "area": { "regionName": "Bangkok East", "tier": "flagship" }, "geo": { "latitude": 13.6679, "longitude": 100.6331 } },
+    { "siteId": "BKK-RANGSIT", "displayName": "CP Hypermarket Rangsit", "area": { "regionName": "Bangkok North", "tier": "large" }, "geo": { "latitude": 14.0342, "longitude": 100.6176 } },
+    { "siteId": "CNX-MUEANG", "displayName": "CP Hypermarket Chiang Mai", "area": { "regionName": "North", "tier": "large" }, "geo": { "latitude": 18.7883, "longitude": 98.9853 } },
+    { "siteId": "HDY-CENTRAL", "displayName": "CP Hypermarket Hat Yai", "area": { "regionName": "South", "tier": "standard" }, "geo": { "latitude": 7.0086, "longitude": 100.4747 } },
+    { "siteId": "KKC-MITTRAPHAP", "displayName": "CP Hypermarket Khon Kaen", "area": { "regionName": "Northeast", "tier": "large" }, "geo": { "latitude": 16.4419, "longitude": 102.8359 } },
+    { "siteId": "PKT-BYPASS", "displayName": "CP Hypermarket Phuket", "area": { "regionName": "South", "tier": "standard" }, "geo": { "latitude": 7.8804, "longitude": 98.3923 } },
+    { "siteId": "PTY-NORTH", "displayName": "CP Hypermarket Pattaya", "area": { "regionName": "East", "tier": "tourist" }, "geo": { "latitude": 12.9236, "longitude": 100.8825 } },
+    { "siteId": "NMA-KORAT", "displayName": "CP Hypermarket Korat", "area": { "regionName": "Northeast", "tier": "standard" }, "geo": { "latitude": 14.9799, "longitude": 102.0977 } },
+    { "siteId": "SRT-MUEANG", "displayName": "CP Hypermarket Surat Thani", "area": { "regionName": "South", "tier": "standard" }, "geo": { "latitude": 9.1382, "longitude": 99.3215 } },
+    { "siteId": "UBN-CITY", "displayName": "CP Hypermarket Ubon Ratchathani", "area": { "regionName": "Northeast", "tier": "standard" }, "geo": { "latitude": 15.2448, "longitude": 104.8473 } }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "event_id": "MAP-EVT-001",
+    "type": "customer_hotspot",
+    "zone": "Frozen Food",
+    "position": { "x": -5.2, "y": 0.2, "z": -1.5 },
+    "label": "High shopper dwell",
+    "severity": "info"
+  },
+  {
+    "event_id": "MAP-EVT-002",
+    "type": "customer_hotspot",
+    "zone": "Mini Corner",
+    "position": { "x": 4.5, "y": 0.2, "z": -1.2 },
+    "label": "High traffic cluster",
+    "severity": "info"
+  },
+  {
+    "event_id": "MAP-EVT-003",
+    "type": "customer_hotspot",
+    "zone": "Promotion Zone",
+    "position": { "x": -0.4, "y": 0.2, "z": 2.3 },
+    "label": "Promotion dwell area",
+    "severity": "info"
+  },
+  {
+    "event_id": "MAP-EVT-004",
+    "type": "obstacle_detected",
+    "zone": "Mini Corner",
+    "position": { "x": 4.1, "y": 0.25, "z": -0.6 },
+    "label": "Cart obstacle",
+    "severity": "danger"
+  },
+  {
+    "event_id": "MAP-EVT-005",
+    "type": "charging_station",
+    "zone": "Charging Station",
+    "position": { "x": -7.4, "y": 0.25, "z": 3.8 },
+    "label": "Charging dock",
+    "severity": "success"
+  },
+  {
+    "event_id": "MAP-EVT-006",
+    "type": "sampling_interest",
+    "zone": "Frozen Food",
+    "position": { "x": -4.8, "y": 0.2, "z": -2.2 },
+    "label": "Sampling interest",
+    "severity": "success"
+  },
+  {
+    "event_id": "MAP-EVT-007",
+    "type": "sampling_interest",
+    "zone": "Promotion Zone",
+    "position": { "x": -1.2, "y": 0.2, "z": 2.4 },
+    "label": "Sample accepted",
+    "severity": "success"
+  }
+]

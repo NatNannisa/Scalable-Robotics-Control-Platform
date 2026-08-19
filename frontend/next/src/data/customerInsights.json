@@ -1,0 +1,4 @@
+[
+  { "insight_id": "INS-001", "branch_id": "BR-BANGNA", "campaign_id": "CMP-SHRIMPY-JOY", "segment": "Family shoppers", "best_time": "16:00-19:00", "top_zone_id": "ZONE-FROZEN", "top_product_id": "PROD-SHRIMP-NUGGET", "insight": "Frozen Food drives the highest sampling conversion when the robot slows near freezer aisles." },
+  { "insight_id": "INS-002", "branch_id": "BR-CHIANGMAI", "campaign_id": "CMP-MISSION-SPACE", "segment": "Kids and parents", "best_time": "17:00-20:00", "top_zone_id": "ZONE-PROMO", "top_product_id": "PROD-SPACE-SNACK", "insight": "Mission visuals increase dwell time, but obstacle spacing should be monitored." }
+]

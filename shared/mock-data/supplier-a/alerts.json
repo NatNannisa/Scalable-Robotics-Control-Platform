@@ -1,0 +1,6 @@
+[
+  { "alert_no": "A-ALR-9001", "branch_code": "CPH-CNX-001", "robot_id": "A-RBT-003", "alert_type": "LOW_BATTERY", "severity": "HIGH", "vendor_status": "OPEN", "raised_at": "2026-07-07T10:21:05+07:00", "message": "Battery below 20 percent during active route" },
+  { "alert_no": "A-ALR-9002", "branch_code": "CPH-HDY-001", "robot_id": "A-RBT-004", "alert_type": "BLOCKED_PATH", "severity": "CRITICAL", "vendor_status": "OPEN", "raised_at": "2026-07-07T10:20:12+07:00", "message": "Robot stopped due to obstacle at 0.34m" },
+  { "alert_no": "A-ALR-9003", "branch_code": "CPH-KKC-001", "robot_id": "A-RBT-005", "alert_type": "OFFLINE", "severity": "MEDIUM", "vendor_status": "ACK", "raised_at": "2026-07-07T09:47:10+07:00", "message": "Heartbeat stale for more than 30 minutes" },
+  { "alert_no": "A-ALR-BAD", "branch_code": "CPH-PKT-001", "robot_id": "A-RBT-006", "alert_type": null, "severity": "LOW", "vendor_status": "OPEN", "_fixture_case": "missing_alert_type" }
+]

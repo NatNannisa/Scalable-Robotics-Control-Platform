@@ -1,0 +1,24 @@
+[
+  {
+    "route_id": "ROUTE-BANGNA-FROZEN",
+    "route_name": "Bangna Frozen Sampling Loop",
+    "branch_id": "BR-BANGNA",
+    "robot_id": "CP-BOT-01",
+    "campaign_id": "CMP-SHRIMPY-JOY",
+    "status": "ready",
+    "readiness_percent": 94,
+    "estimated_duration_min": 28,
+    "zone_sequence": ["ZONE-ENTRANCE", "ZONE-FROZEN", "ZONE-MINI", "ZONE-CHECKOUT"]
+  },
+  {
+    "route_id": "ROUTE-CNX-PROMO",
+    "route_name": "Chiang Mai Promotion Patrol",
+    "branch_id": "BR-CHIANGMAI",
+    "robot_id": "CP-BOT-02",
+    "campaign_id": "CMP-MISSION-SPACE",
+    "status": "maintenance",
+    "readiness_percent": 78,
+    "estimated_duration_min": 24,
+    "zone_sequence": ["ZONE-PROMO", "ZONE-MINI", "ZONE-CHECKOUT"]
+  }
+]

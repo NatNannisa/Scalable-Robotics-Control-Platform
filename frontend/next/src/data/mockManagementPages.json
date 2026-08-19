@@ -1,0 +1,98 @@
+{
+  "campaignCards": [
+    {
+      "campaignId": "CMP-SHRIMP-JOY",
+      "name": "Shrimp Joy",
+      "objective": "Drive seafood sampling and frozen product trial",
+      "branch": "CP Hypermarket Rama 2",
+      "period": "9-16 Jun 2026",
+      "status": "Active",
+      "approval": "Approved",
+      "accent": "blue"
+    },
+    {
+      "campaignId": "CMP-SPACE",
+      "name": "Mission to Space",
+      "objective": "Create family engagement around kids snack launch",
+      "branch": "CP Hypermarket Bangna",
+      "period": "9-20 Jun 2026",
+      "status": "Active",
+      "approval": "Approved",
+      "accent": "purple"
+    },
+    {
+      "campaignId": "CMP-FRESH-MEAL",
+      "name": "Fresh Meal Confidence",
+      "objective": "Prepare next wave for ready meal tasting",
+      "branch": "CP Hypermarket Chiang Mai",
+      "period": "17-24 Jun 2026",
+      "status": "Scheduled",
+      "approval": "Pending",
+      "accent": "orange"
+    }
+  ],
+  "scriptCards": [
+    {
+      "scriptId": "SCR-SHRIMP-TH",
+      "campaign": "Shrimp Joy",
+      "title": "สคริปต์ชวนชิม Shrimp Joy",
+      "language": "TH",
+      "duration": "22 sec",
+      "status": "Active",
+      "sampleLine": "สวัสดีค่ะ วันนี้มี Shrimp Joy ให้ทดลองชิม สด เด้ง และทำง่ายค่ะ",
+      "accent": "green"
+    },
+    {
+      "scriptId": "SCR-SPACE-TH",
+      "campaign": "Mission to Space",
+      "title": "สคริปต์ Mission to Space",
+      "language": "TH",
+      "duration": "18 sec",
+      "status": "Active",
+      "sampleLine": "พร้อมออกเดินทางไปกับรสชาติใหม่หรือยังคะ แวะดูโปรโมชันตรงนี้ได้เลยค่ะ",
+      "accent": "purple"
+    },
+    {
+      "scriptId": "SCR-FRESH-TH",
+      "campaign": "Fresh Meal Confidence",
+      "title": "สคริปต์อาหารพร้อมปรุง",
+      "language": "TH",
+      "duration": "20 sec",
+      "status": "Pending approval",
+      "sampleLine": "เมนูเย็นนี้ง่ายขึ้นด้วยอาหารพร้อมปรุงคุณภาพจาก CP ค่ะ",
+      "accent": "orange"
+    }
+  ],
+  "routeReadinessCards": [
+    {
+      "routeId": "RTE-RAMA2-FROZEN",
+      "branch": "CP Hypermarket Rama 2",
+      "routeName": "Frozen Food Promo Loop",
+      "duration": "24 min",
+      "readiness": 96,
+      "zoneSequence": "Entrance > Frozen Food > Promotion Zone > Checkout",
+      "status": "Ready",
+      "accent": "green"
+    },
+    {
+      "routeId": "RTE-BANGNA-MINI",
+      "branch": "CP Hypermarket Bangna",
+      "routeName": "Mini Corner Family Loop",
+      "duration": "18 min",
+      "readiness": 88,
+      "zoneSequence": "Entrance > Mini Corner > Beverage Zone > Promotion Zone",
+      "status": "Ready with warning",
+      "accent": "orange"
+    },
+    {
+      "routeId": "RTE-CNX-PREP",
+      "branch": "CP Hypermarket Chiang Mai",
+      "routeName": "Ready Meal Preview Route",
+      "duration": "21 min",
+      "readiness": 72,
+      "zoneSequence": "Entrance > Ready Meal > Fresh Food > Checkout",
+      "status": "Needs floor check",
+      "accent": "red"
+    }
+  ]
+}

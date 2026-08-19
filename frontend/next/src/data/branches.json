@@ -1,0 +1,44 @@
+[
+  {
+    "branch_id": "BR-BANGNA",
+    "branch_name": "CP Hypermarket Bangna",
+    "branch_name_th": "ซีพี ไฮเปอร์มาร์เก็ต บางนา",
+    "city": "Bangkok",
+    "region": "Central",
+    "status": "online",
+    "active_robot_id": "CP-BOT-01",
+    "active_campaign_id": "CMP-SHRIMPY-JOY",
+    "live_camera_id": "CAM-BANGNA-001",
+    "route_id": "ROUTE-BANGNA-FROZEN",
+    "primary_zone": "Frozen Food",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "branch_id": "BR-CHIANGMAI",
+    "branch_name": "CP Hypermarket Chiang Mai",
+    "branch_name_th": "ซีพี ไฮเปอร์มาร์เก็ต เชียงใหม่",
+    "city": "Chiang Mai",
+    "region": "North",
+    "status": "warning",
+    "active_robot_id": "CP-BOT-02",
+    "active_campaign_id": "CMP-MISSION-SPACE",
+    "live_camera_id": "CAM-CHIANGMAI-001",
+    "route_id": "ROUTE-CNX-PROMO",
+    "primary_zone": "Promotion Zone",
+    "timezone": "Asia/Bangkok"
+  },
+  {
+    "branch_id": "BR-ONLINE-TEST",
+    "branch_name": "Online Test Stream",
+    "branch_name_th": "ทดสอบสตรีมออนไลน์",
+    "city": "Online",
+    "region": "Test",
+    "status": "ready",
+    "active_robot_id": "CP-BOT-01",
+    "active_campaign_id": "CMP-SHRIMPY-JOY",
+    "live_camera_id": "CAM-ONLINE-001",
+    "route_id": "ROUTE-BANGNA-FROZEN",
+    "primary_zone": "Test Zone",
+    "timezone": "Asia/Bangkok"
+  }
+]

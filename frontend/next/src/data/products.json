@@ -1,0 +1,20 @@
+[
+  {
+    "product_id": "PROD-SHRIMP-NUGGET",
+    "product_name": "Shrimpy Joy",
+    "category": "Frozen Food",
+    "campaign_id": "CMP-SHRIMPY-JOY",
+    "unit_price": 129,
+    "promotion": "Buy 2 Get 1",
+    "interest_score": 88
+  },
+  {
+    "product_id": "PROD-SPACE-SNACK",
+    "product_name": "Mission to Space Snack",
+    "category": "Snack",
+    "campaign_id": "CMP-MISSION-SPACE",
+    "unit_price": 69,
+    "promotion": "Space mission stamp reward",
+    "interest_score": 76
+  }
+]

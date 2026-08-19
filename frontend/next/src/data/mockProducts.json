@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": "PRD-CARB-SPAG",
+    "product_name": "Carbonara Spaghetti",
+    "category": "Ready Meal",
+    "supplier": "CP Foods",
+    "hero_color": "#ffd166"
+  },
+  {
+    "product_id": "PRD-CORN-NUG",
+    "product_name": "Corn Nugget Stick",
+    "category": "Frozen Snack",
+    "supplier": "CP Foods",
+    "hero_color": "#f6b743"
+  },
+  {
+    "product_id": "PRD-BRAT-SAUS",
+    "product_name": "Bratwurst Sausage",
+    "category": "Meat",
+    "supplier": "CP Foods",
+    "hero_color": "#ff7b72"
+  },
+  {
+    "product_id": "PRD-PORK-GYO",
+    "product_name": "Pork Gyoza",
+    "category": "Frozen Snack",
+    "supplier": "CP Foods",
+    "hero_color": "#a3e635"
+  },
+  {
+    "product_id": "PRD-TUBTIM",
+    "product_name": "Tub Tim Grob",
+    "category": "Dessert",
+    "supplier": "CP Foods",
+    "hero_color": "#ff85c2"
+  },
+  {
+    "product_id": "PRD-UFARM",
+    "product_name": "U-Farm Pork Product",
+    "category": "Fresh Meat",
+    "supplier": "U-Farm",
+    "hero_color": "#fb7185"
+  }
+]

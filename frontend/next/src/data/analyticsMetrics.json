@@ -1,0 +1,14 @@
+[
+  { "metric_id": "robots_online", "label": "Robots Online", "value": 2, "unit": "robots", "trend_percent": 0, "status": "online" },
+  { "metric_id": "customers_detected", "label": "Customers Detected", "value": 1248, "unit": "people", "trend_percent": 18.7, "status": "online" },
+  { "metric_id": "sampling_conversion", "label": "Sampling Conversion", "value": 27.6, "unit": "%", "trend_percent": 6.4, "status": "online" },
+  { "metric_id": "product_interest", "label": "Product Interest", "value": 842, "unit": "signals", "trend_percent": 22.3, "status": "online" },
+  { "metric_id": "sales_uplift", "label": "Sales Uplift", "value": 14.2, "unit": "%", "trend_percent": 3.8, "status": "online" },
+  { "metric_id": "roi_score", "label": "ROI Score", "value": 2.8, "unit": "x", "trend_percent": 8.1, "status": "online" },
+  { "metric_id": "safety_alerts", "label": "Safety Alerts", "value": 3, "unit": "alerts", "trend_percent": -12.0, "status": "warning" },
+  { "metric_id": "route_readiness", "label": "Route Readiness", "value": 86, "unit": "%", "trend_percent": 4.2, "status": "ready" },
+  { "metric_id": "model_accuracy", "label": "Model Accuracy", "value": 92.4, "unit": "%", "trend_percent": 1.6, "status": "online" },
+  { "metric_id": "engagement_prediction", "label": "Engagement Prediction", "value": 78.6, "unit": "%", "trend_percent": 5.1, "status": "online" },
+  { "metric_id": "route_success_rate", "label": "Route Success Rate", "value": 94.1, "unit": "%", "trend_percent": 2.2, "status": "online" },
+  { "metric_id": "avg_interaction_time", "label": "Avg Interaction Time", "value": 47.3, "unit": "sec", "trend_percent": -3.2, "status": "online" }
+]

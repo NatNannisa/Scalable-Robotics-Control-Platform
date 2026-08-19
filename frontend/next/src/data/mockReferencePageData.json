@@ -1,0 +1,423 @@
+{
+  "controlCenter": {
+    "liveActivityFeed": [
+      {
+        "time": "10:42",
+        "robotId": "ROBOT-01",
+        "branch": "CP Hypermarket Bangna",
+        "eventType": "sampling_interest",
+        "titleTh": "ลูกค้าสนใจทดลองชิม",
+        "description": "Shrimp Joy campaign, Frozen Food zone",
+        "severity": "success"
+      },
+      {
+        "time": "10:40",
+        "robotId": "ROBOT-02",
+        "branch": "CP Hypermarket Rama 2",
+        "eventType": "script_played",
+        "titleTh": "เล่นสคริปต์แนะนำสินค้า",
+        "description": "Mission to Space campaign, Promotion Zone",
+        "severity": "info"
+      },
+      {
+        "time": "10:37",
+        "robotId": "ROBOT-01",
+        "branch": "CP Hypermarket Bangna",
+        "eventType": "obstacle_detected",
+        "titleTh": "พบสิ่งกีดขวาง",
+        "description": "Cart detected at 0.42 m, robot paused safely",
+        "severity": "warning"
+      },
+      {
+        "time": "10:35",
+        "robotId": "ROBOT-02",
+        "branch": "CP Hypermarket Rama 2",
+        "eventType": "customer_detected",
+        "titleTh": "ตรวจพบลูกค้า",
+        "description": "Eligible shopper near beverage aisle",
+        "severity": "info"
+      }
+    ],
+    "robots": [
+      {
+        "robotId": "ROBOT-01",
+        "robotName": "Nong Chim 01",
+        "campaign": "Shrimp Joy",
+        "branch": "CP Hypermarket Bangna",
+        "zone": "Frozen Food",
+        "status": "live",
+        "visualState": "speaking",
+        "currentAction": "Playing Shrimp Joy sampling script",
+        "batteryPercent": 91,
+        "routeCompletionPercent": 68,
+        "speedMps": 0.3,
+        "safetyStatus": "safe"
+      },
+      {
+        "robotId": "ROBOT-02",
+        "robotName": "Nong Chim 02",
+        "campaign": "Mission to Space",
+        "branch": "CP Hypermarket Rama 2",
+        "zone": "Promotion Zone",
+        "status": "live",
+        "visualState": "detecting",
+        "currentAction": "Scanning shopper intent",
+        "batteryPercent": 84,
+        "routeCompletionPercent": 52,
+        "speedMps": 0.4,
+        "safetyStatus": "safe"
+      }
+    ],
+    "branchPins": [
+      {
+        "branchId": "CP-BNA",
+        "branch": "CP Hypermarket Bangna",
+        "city": "Bangkok",
+        "robotOnline": 1,
+        "status": "live",
+        "engagementRatePercent": 31
+      },
+      {
+        "branchId": "CP-RM2",
+        "branch": "CP Hypermarket Rama 2",
+        "city": "Bangkok",
+        "robotOnline": 1,
+        "status": "live",
+        "engagementRatePercent": 27
+      },
+      {
+        "branchId": "CP-CNX",
+        "branch": "CP Hypermarket Chiang Mai",
+        "city": "Chiang Mai",
+        "robotOnline": 0,
+        "status": "standby",
+        "engagementRatePercent": 0
+      }
+    ],
+    "kpiCards": [
+      {
+        "labelTh": "ลูกค้าที่ตรวจพบ",
+        "value": "428",
+        "change": "+18%",
+        "tone": "blue"
+      },
+      {
+        "labelTh": "อัตราสนใจทดลองชิม",
+        "value": "29.8%",
+        "change": "+6.4%",
+        "tone": "green"
+      },
+      {
+        "labelTh": "ยอดขายเพิ่มขึ้น",
+        "value": "+12.5%",
+        "change": "+3.1%",
+        "tone": "purple"
+      },
+      {
+        "labelTh": "แจ้งเตือนรอดำเนินการ",
+        "value": "3",
+        "change": "-2",
+        "tone": "orange"
+      }
+    ]
+  },
+  "analytics": {
+    "funnel": [
+      {
+        "stepTh": "ตรวจพบลูกค้า",
+        "value": 428,
+        "percent": 100
+      },
+      {
+        "stepTh": "เข้าใกล้ลูกค้า",
+        "value": 312,
+        "percent": 73
+      },
+      {
+        "stepTh": "เล่นสคริปต์",
+        "value": 286,
+        "percent": 67
+      },
+      {
+        "stepTh": "สนใจทดลองชิม",
+        "value": 128,
+        "percent": 30
+      },
+      {
+        "stepTh": "สนใจสินค้า",
+        "value": 94,
+        "percent": 22
+      },
+      {
+        "stepTh": "ยอดขายโดยประมาณ",
+        "value": 61,
+        "percent": 14
+      }
+    ],
+    "trendChart": [
+      {
+        "label": "Mon",
+        "detected": 72,
+        "sampling": 19,
+        "salesUpliftPercent": 8.2
+      },
+      {
+        "label": "Tue",
+        "detected": 81,
+        "sampling": 24,
+        "salesUpliftPercent": 9.1
+      },
+      {
+        "label": "Wed",
+        "detected": 68,
+        "sampling": 18,
+        "salesUpliftPercent": 7.5
+      },
+      {
+        "label": "Thu",
+        "detected": 95,
+        "sampling": 31,
+        "salesUpliftPercent": 12.4
+      },
+      {
+        "label": "Fri",
+        "detected": 112,
+        "sampling": 36,
+        "salesUpliftPercent": 14.6
+      }
+    ],
+    "zoneRanking": [
+      {
+        "zone": "Frozen Food",
+        "engagementRatePercent": 36,
+        "samplingInterest": 48,
+        "tone": "blue"
+      },
+      {
+        "zone": "Promotion Zone",
+        "engagementRatePercent": 32,
+        "samplingInterest": 41,
+        "tone": "purple"
+      },
+      {
+        "zone": "Mini Corner",
+        "engagementRatePercent": 29,
+        "samplingInterest": 27,
+        "tone": "green"
+      },
+      {
+        "zone": "Beverage Zone",
+        "engagementRatePercent": 24,
+        "samplingInterest": 18,
+        "tone": "orange"
+      },
+      {
+        "zone": "Checkout",
+        "engagementRatePercent": 12,
+        "samplingInterest": 7,
+        "tone": "red"
+      }
+    ],
+    "customerInsights": [
+      {
+        "labelTh": "ช่วงเวลาพีค",
+        "value": "17:00-18:00",
+        "detail": "Highest sampling response after work hours"
+      },
+      {
+        "labelTh": "สินค้าที่สนใจสูงสุด",
+        "value": "Shrimp Joy",
+        "detail": "Frozen Food and Promotion Zone lead interest"
+      },
+      {
+        "labelTh": "พฤติกรรมเด่น",
+        "value": "หยุดฟัง 18-25 วินาที",
+        "detail": "Customers respond best to short Thai scripts"
+      },
+      {
+        "labelTh": "สาขาที่เด่นที่สุด",
+        "value": "CP Hypermarket Bangna",
+        "detail": "Best conversion and stable robot uptime"
+      }
+    ]
+  },
+  "management": {
+    "campaignCards": [
+      {
+        "campaignId": "CMP-SHRIMP-JOY",
+        "name": "Shrimp Joy",
+        "status": "active",
+        "branch": "CP Hypermarket Bangna",
+        "objective": "Drive trial for frozen shrimp snack",
+        "timeline": "9-15 Jun 2026",
+        "assignedRobot": "ROBOT-01",
+        "approval": "approved",
+        "tone": "blue"
+      },
+      {
+        "campaignId": "CMP-SPACE",
+        "name": "Mission to Space",
+        "status": "active",
+        "branch": "CP Hypermarket Rama 2",
+        "objective": "Promote kids snack bundle with mascot script",
+        "timeline": "9-16 Jun 2026",
+        "assignedRobot": "ROBOT-02",
+        "approval": "approved",
+        "tone": "purple"
+      },
+      {
+        "campaignId": "CMP-FRESH-PORK",
+        "name": "Fresh Pork Confidence",
+        "status": "draft",
+        "branch": "CP Hypermarket Chiang Mai",
+        "objective": "Explain freshness and recipe use cases",
+        "timeline": "17-23 Jun 2026",
+        "assignedRobot": "unassigned",
+        "approval": "pending",
+        "tone": "orange"
+      }
+    ],
+    "scriptCards": [
+      {
+        "scriptId": "SCR-SHRIMP-JOY-TH",
+        "campaign": "Shrimp Joy",
+        "titleTh": "สคริปต์ชวนชิม Shrimp Joy",
+        "language": "TH",
+        "durationSec": 22,
+        "status": "active",
+        "sampleLineTh": "สวัสดีค่ะ วันนี้มี Shrimp Joy ให้ลองชิม สดใหม่ กรอบอร่อยค่ะ"
+      },
+      {
+        "scriptId": "SCR-SPACE-TH",
+        "campaign": "Mission to Space",
+        "titleTh": "สคริปต์ภารกิจอวกาศ",
+        "language": "TH",
+        "durationSec": 25,
+        "status": "active",
+        "sampleLineTh": "พร้อมออกเดินทางกับขนมภารกิจอวกาศไหมคะ ลองชิมได้เลยค่ะ"
+      },
+      {
+        "scriptId": "SCR-FRESH-PORK-TH",
+        "campaign": "Fresh Pork Confidence",
+        "titleTh": "สคริปต์แนะนำวัตถุดิบสด",
+        "language": "TH",
+        "durationSec": 20,
+        "status": "pending_approval",
+        "sampleLineTh": "สินค้า CP สด สะอาด เหมาะสำหรับมื้อเย็นของครอบครัวค่ะ"
+      }
+    ],
+    "routeReadinessCards": [
+      {
+        "routeId": "RTE-BNA-FROZEN-01",
+        "branch": "CP Hypermarket Bangna",
+        "zoneSequence": "Entrance > Frozen Food > Promotion Zone > Mini Corner > Checkout",
+        "durationMin": 22,
+        "readiness": "ready",
+        "routeCompletionPercent": 68
+      },
+      {
+        "routeId": "RTE-RM2-PROMO-01",
+        "branch": "CP Hypermarket Rama 2",
+        "zoneSequence": "Entrance > Promotion Zone > Beverage Zone > Checkout",
+        "durationMin": 18,
+        "readiness": "ready",
+        "routeCompletionPercent": 52
+      },
+      {
+        "routeId": "RTE-CNX-FRESH-01",
+        "branch": "CP Hypermarket Chiang Mai",
+        "zoneSequence": "Entrance > Fresh Food > Mini Corner > Checkout",
+        "durationMin": 20,
+        "readiness": "needs_review",
+        "routeCompletionPercent": 0
+      }
+    ]
+  },
+  "dataScienceLab": {
+    "experimentCards": [
+      {
+        "experimentId": "EXP-DETECT-ANGLE",
+        "title": "Customer Angle Eligibility",
+        "status": "running",
+        "owner": "Data Science Lab",
+        "metric": "Precision",
+        "value": "91.2%",
+        "impact": "Reduce false script triggers near aisle crossings"
+      },
+      {
+        "experimentId": "EXP-ROUTE-OPT",
+        "title": "Route Optimization",
+        "status": "review",
+        "owner": "Operations AI",
+        "metric": "Travel Time",
+        "value": "-14%",
+        "impact": "Shorter route while keeping high-engagement zones"
+      },
+      {
+        "experimentId": "EXP-SCRIPT-AB",
+        "title": "Thai Script A/B Test",
+        "status": "planned",
+        "owner": "Campaign Team",
+        "metric": "Sampling Lift",
+        "value": "+6.8%",
+        "impact": "Test friendly short script against product-benefit script"
+      }
+    ],
+    "modelMetricCards": [
+      {
+        "label": "Detection Accuracy",
+        "value": "93.4%",
+        "trend": "+1.8%",
+        "tone": "green"
+      },
+      {
+        "label": "Engagement Precision",
+        "value": "89.1%",
+        "trend": "+2.2%",
+        "tone": "blue"
+      },
+      {
+        "label": "Obstacle Recall",
+        "value": "96.7%",
+        "trend": "+0.9%",
+        "tone": "orange"
+      },
+      {
+        "label": "Route Drift",
+        "value": "0.18 m",
+        "trend": "-0.04 m",
+        "tone": "purple"
+      }
+    ],
+    "sensorLogCards": [
+      {
+        "time": "10:42:12",
+        "robotId": "ROBOT-01",
+        "signal": "camera_detection",
+        "value": "confidence 0.91",
+        "status": "normal"
+      },
+      {
+        "time": "10:41:48",
+        "robotId": "ROBOT-01",
+        "signal": "ultrasonic_front",
+        "value": "0.82 m",
+        "status": "normal"
+      },
+      {
+        "time": "10:40:33",
+        "robotId": "ROBOT-02",
+        "signal": "route_localization",
+        "value": "drift 0.16 m",
+        "status": "normal"
+      },
+      {
+        "time": "10:37:05",
+        "robotId": "ROBOT-01",
+        "signal": "obstacle_distance",
+        "value": "0.42 m",
+        "status": "warning"
+      }
+    ]
+  }
+}

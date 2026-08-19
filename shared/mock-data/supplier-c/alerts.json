@@ -1,0 +1,12 @@
+{
+  "schema": "c-legacy-v3",
+  "severityLegend": { "1": "low", "2": "medium", "3": "high", "4": "critical" },
+  "stateLegend": { "N": "new", "A": "acknowledged", "C": "closed" },
+  "cols": ["aid", "sid", "rid", "cat", "sev", "st", "ts", "msg"],
+  "rows": [
+    ["C-A-701", "C003", "C-R03", "BAT", 3, "N", 1783394865000, "Battery below 20 percent"],
+    ["C-A-702", "C004", "C-R04", "OBS", 4, "N", 1783394812000, "Obstacle stop at 0.29m"],
+    ["C-A-703", "C005", "C-R05", "NET", 2, "A", 1783392430000, "Heartbeat stale"],
+    ["C-A-BAD", "C006", "C-R06", "", 1, "N", 1783392500000, { "case": "missing_category" }]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "schema": "c-legacy-v3",
+  "cols": ["tid", "aid", "sid", "rid", "q", "p", "st", "open", "owner", "close"],
+  "rows": [
+    ["C-T-901", "C-A-701", "C003", "C-R03", "ROBOT_OPS", 2, "WIP", 1783394920000, "north-team", null],
+    ["C-T-902", "C-A-702", "C004", "C-R04", "STORE_SUPPORT", 1, "NEW", 1783394840000, null, null],
+    ["C-T-903", "C-A-703", "C005", "C-R05", "NETWORK", 3, "DONE", 1783392480000, "netops-ne", 1783394160000],
+    ["", "C-A-BAD", "C006", "C-R06", "ROBOT_OPS", 3, "NEW", 1783392500000, null, null, { "case": "missing_ticket_id" }]
+  ]
+}

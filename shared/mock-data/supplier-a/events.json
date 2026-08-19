@@ -1,0 +1,9 @@
+[
+  { "event_id": "A-EVT-1001", "robot_id": "A-RBT-001", "branch_code": "CPH-BKK-001", "event_ts": "2026-07-07T10:24:31+07:00", "event_code": "ZONE_ENTERED", "zone_code": "BEVERAGE", "payload": { "route_step": 4, "speed_mps": 0.6 } },
+  { "event_id": "A-EVT-1002", "robot_id": "A-RBT-001", "branch_code": "CPH-BKK-001", "event_ts": "2026-07-07T10:24:52+07:00", "event_code": "CUSTOMER_DETECTED", "zone_code": "BEVERAGE", "payload": { "distance_m": 1.8, "angle_degree": 12, "confidence": 0.91 } },
+  { "event_id": "A-EVT-1003", "robot_id": "A-RBT-001", "branch_code": "CPH-BKK-001", "event_ts": "2026-07-07T10:25:10+07:00", "event_code": "SCRIPT_PLAYED", "zone_code": "BEVERAGE", "payload": { "script_id": "SCR-BEV-TH-01", "campaign_id": "CP-SAMPLING-0726" } },
+  { "event_id": "A-EVT-2001", "robot_id": "A-RBT-003", "branch_code": "CPH-CNX-001", "event_ts": "2026-07-07T10:21:05+07:00", "event_code": "BATTERY_LOW", "zone_code": "CHARGING", "payload": { "battery_percent": 17, "threshold": 20 } },
+  { "event_id": "A-EVT-3001", "robot_id": "A-RBT-004", "branch_code": "CPH-HDY-001", "event_ts": "2026-07-07T10:20:12+07:00", "event_code": "OBSTACLE_STOP", "zone_code": "MINI_CORNER", "payload": { "obstacle_distance_m": 0.34, "stop_reason": "safety_clearance" } },
+  { "event_id": "A-EVT-4001", "robot_id": "A-RBT-006", "branch_code": "CPH-PKT-001", "event_ts": null, "event_code": "NO_DATA", "zone_code": null, "payload": { "reason": "missing_heartbeat" } },
+  { "event_id": null, "robot_id": "A-RBT-002", "branch_code": "CPH-BKK-002", "event_ts": "2026-07-07T10:23:00+07:00", "event_code": "ZONE_ENTERED", "_fixture_case": "missing_event_id" }
+]

@@ -1,0 +1,6 @@
+[
+  { "model_id": "MODEL-DETECTION-V3", "model_name": "Customer Detection", "metric": "model_accuracy", "value": 92.4, "unit": "%", "status": "online" },
+  { "model_id": "MODEL-ENGAGE-V2", "model_name": "Engagement Prediction", "metric": "engagement_prediction", "value": 78.6, "unit": "%", "status": "online" },
+  { "model_id": "MODEL-ROUTE-V1", "model_name": "Route Success", "metric": "route_success_rate", "value": 94.1, "unit": "%", "status": "online" },
+  { "model_id": "MODEL-TIME-V1", "model_name": "Interaction Time", "metric": "avg_interaction_time", "value": 47.3, "unit": "sec", "status": "online" }
+]

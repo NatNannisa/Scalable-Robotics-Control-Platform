@@ -1,0 +1,10 @@
+[
+  { "route_point_id": "RP-001", "route_id": "ROUTE-BANGNA-FROZEN", "sequence": 1, "zone_id": "ZONE-ENTRANCE", "x": 8, "y": 0.15, "z": 72, "speed_mps": 0.8 },
+  { "route_point_id": "RP-002", "route_id": "ROUTE-BANGNA-FROZEN", "sequence": 2, "zone_id": "ZONE-FROZEN", "x": 24, "y": 0.15, "z": 58, "speed_mps": 0.7 },
+  { "route_point_id": "RP-003", "route_id": "ROUTE-BANGNA-FROZEN", "sequence": 3, "zone_id": "ZONE-FROZEN", "x": 46, "y": 0.15, "z": 42, "speed_mps": 0.55 },
+  { "route_point_id": "RP-004", "route_id": "ROUTE-BANGNA-FROZEN", "sequence": 4, "zone_id": "ZONE-MINI", "x": 66, "y": 0.15, "z": 36, "speed_mps": 0.65 },
+  { "route_point_id": "RP-005", "route_id": "ROUTE-BANGNA-FROZEN", "sequence": 5, "zone_id": "ZONE-CHECKOUT", "x": 82, "y": 0.15, "z": 18, "speed_mps": 0.8 },
+  { "route_point_id": "RP-006", "route_id": "ROUTE-CNX-PROMO", "sequence": 1, "zone_id": "ZONE-PROMO", "x": 14, "y": 0.15, "z": 62, "speed_mps": 0.6 },
+  { "route_point_id": "RP-007", "route_id": "ROUTE-CNX-PROMO", "sequence": 2, "zone_id": "ZONE-PROMO", "x": 38, "y": 0.15, "z": 44, "speed_mps": 0.5 },
+  { "route_point_id": "RP-008", "route_id": "ROUTE-CNX-PROMO", "sequence": 3, "zone_id": "ZONE-CHECKOUT", "x": 70, "y": 0.15, "z": 24, "speed_mps": 0.6 }
+]

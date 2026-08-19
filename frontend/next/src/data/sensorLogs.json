@@ -1,0 +1,6 @@
+[
+  { "sensor_log_id": "SENSOR-001", "robot_id": "CP-BOT-01", "branch_id": "BR-BANGNA", "timestamp": "2026-06-13T10:12:00+07:00", "sensor_type": "rgb_camera", "feature_name": "customer_count", "value": 3, "unit": "people" },
+  { "sensor_log_id": "SENSOR-002", "robot_id": "CP-BOT-01", "branch_id": "BR-BANGNA", "timestamp": "2026-06-13T10:12:05+07:00", "sensor_type": "lidar", "feature_name": "nearest_obstacle_m", "value": 1.3, "unit": "m" },
+  { "sensor_log_id": "SENSOR-003", "robot_id": "CP-BOT-02", "branch_id": "BR-CHIANGMAI", "timestamp": "2026-06-13T10:12:12+07:00", "sensor_type": "lidar", "feature_name": "nearest_obstacle_m", "value": 0.42, "unit": "m" },
+  { "sensor_log_id": "SENSOR-004", "robot_id": "CP-BOT-02", "branch_id": "BR-CHIANGMAI", "timestamp": "2026-06-13T10:13:00+07:00", "sensor_type": "microphone", "feature_name": "ambient_noise_db", "value": 42, "unit": "dB" }
+]

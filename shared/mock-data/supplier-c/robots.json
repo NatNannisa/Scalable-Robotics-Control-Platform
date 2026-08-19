@@ -1,0 +1,15 @@
+{
+  "schema": "c-legacy-v3",
+  "statusLegend": { "1": "healthy", "2": "warning", "0": "offline", "3": "low_battery", "4": "blocked", "-1": "no_data" },
+  "cols": ["rid", "sid", "mdl", "s", "bt", "zn", "rte", "hb", "xyh"],
+  "rows": [
+    ["C-R01", "C001", "LegacySampling-X", 1, 86, "beverage", "C-RTE-001", 1783394971000, [43.9, 54.7, 93]],
+    ["C-R02", "C002", "LegacySampling-X", 2, 44, "frozen", "C-RTE-002", 1783394898000, [34.4, 60.1, 126]],
+    ["C-R03", "C003", "LegacySampling-X", 3, 16, "charging", "C-RTE-003", 1783394865000, [87.1, 47.0, 270]],
+    ["C-R04", "C004", "LegacySampling-W", 4, 60, "mini_corner", "C-RTE-004", 1783394812000, [59.0, 45.1, 8]],
+    ["C-R05", "C005", "LegacySampling-X", 0, 49, null, "C-RTE-005", 1783392130000, null],
+    ["C-R06", "C006", "LegacySampling-X", -1, null, null, "C-RTE-006", null, null],
+    ["", "C007", "LegacySampling-X", 1, 79, "promotion", "C-RTE-007", 1783394741000, [55.0, 48.0, 90], { "case": "missing_robot_id" }],
+    ["C-R-BAD-BATT", "C008", "LegacySampling-X", 1, 140, "fresh", "C-RTE-008", 1783394741000, [42.0, 50.0, 90], { "case": "battery_out_of_range" }]
+  ]
+}

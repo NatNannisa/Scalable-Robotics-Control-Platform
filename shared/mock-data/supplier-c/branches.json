@@ -1,0 +1,16 @@
+{
+  "schema": "c-legacy-v3",
+  "cols": ["sid", "nm", "rg", "tier", "tz", "lat", "lon"],
+  "rows": [
+    ["C001", "CP Hypermarket Bangna", "BKK-E", "F", "Asia/Bangkok", 13.6679, 100.6331],
+    ["C002", "CP Hypermarket Rangsit", "BKK-N", "L", "Asia/Bangkok", 14.0342, 100.6176],
+    ["C003", "CP Hypermarket Chiang Mai", "N", "L", "Asia/Bangkok", 18.7883, 98.9853],
+    ["C004", "CP Hypermarket Hat Yai", "S", "S", "Asia/Bangkok", 7.0086, 100.4747],
+    ["C005", "CP Hypermarket Khon Kaen", "NE", "L", "Asia/Bangkok", 16.4419, 102.8359],
+    ["C006", "CP Hypermarket Phuket", "S", "S", "Asia/Bangkok", 7.8804, 98.3923],
+    ["C007", "CP Hypermarket Pattaya", "E", "T", "Asia/Bangkok", 12.9236, 100.8825],
+    ["C008", "CP Hypermarket Korat", "NE", "S", "Asia/Bangkok", 14.9799, 102.0977],
+    ["C009", "CP Hypermarket Surat Thani", "S", "S", "Asia/Bangkok", 9.1382, 99.3215],
+    ["C010", "CP Hypermarket Ubon Ratchathani", "NE", "S", "Asia/Bangkok", 15.2448, 104.8473]
+  ]
+}

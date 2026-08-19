@@ -1,0 +1,8 @@
+{
+  "cases": [
+    { "caseNo": "B-C-8801", "alarmId": "B-A-3101", "site": "CNX-MUEANG", "asset": "B-UNIT-9003", "workflowState": "triage", "sla": "4h", "urgency": 2, "createdOn": "2026-07-07T10:29:00+07:00", "ownerGroup": "north-field-team" },
+    { "caseNo": "B-C-8802", "alarmId": "B-A-3102", "site": "HDY-CENTRAL", "asset": "B-UNIT-9004", "workflowState": "dispatching", "sla": "1h", "urgency": 1, "createdOn": "2026-07-07T10:28:20+07:00", "ownerGroup": "south-store-support" },
+    { "caseNo": "B-C-8803", "alarmId": "B-A-3103", "site": "KKC-MITTRAPHAP", "asset": "B-UNIT-9005", "workflowState": "done", "sla": "8h", "urgency": 3, "createdOn": "2026-07-07T09:48:00+07:00", "closedOn": "2026-07-07T10:16:00+07:00", "ownerGroup": "network-ops" },
+    { "caseNo": "", "alarmId": "B-A-BAD", "site": "PKT-BYPASS", "asset": "B-UNIT-9006", "workflowState": "triage", "_fixtureCase": "missing_ticket_id" }
+  ]
+}

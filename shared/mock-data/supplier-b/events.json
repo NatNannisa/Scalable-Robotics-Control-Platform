@@ -1,0 +1,11 @@
+{
+  "events": [
+    { "id": "B-E-71001", "device": { "serial": "B-UNIT-9001" }, "siteId": "BKK-BANGNA", "occurredAt": "2026-07-07T10:29:48+07:00", "kind": "entered_area", "area": "beverage", "details": { "routeStep": 4, "speedMps": 0.6 } },
+    { "id": "B-E-71002", "device": { "serial": "B-UNIT-9001" }, "siteId": "BKK-BANGNA", "occurredAt": "2026-07-07T10:30:02+07:00", "kind": "person_seen", "area": "beverage", "details": { "meters": 1.6, "angle": 10, "confidenceScore": 0.93 } },
+    { "id": "B-E-71003", "device": { "serial": "B-UNIT-9001" }, "siteId": "BKK-BANGNA", "occurredAt": "2026-07-07T10:30:20+07:00", "kind": "talk_track_started", "area": "beverage", "details": { "scriptRef": "B-SCR-BEV-01", "campaignRef": "B-CAMP-0726" } },
+    { "id": "B-E-72001", "device": { "serial": "B-UNIT-9003" }, "siteId": "CNX-MUEANG", "occurredAt": "2026-07-07T10:28:30+07:00", "kind": "charge_warning", "area": "charging", "details": { "powerPercent": 15 } },
+    { "id": "B-E-73001", "device": { "serial": "B-UNIT-9004" }, "siteId": "HDY-CENTRAL", "occurredAt": "2026-07-07T10:27:54+07:00", "kind": "navigation_blocked", "area": "mini_corner", "details": { "nearestObjectMeters": 0.31 } },
+    { "id": "B-E-74001", "device": { "serial": "B-UNIT-9006" }, "siteId": "PKT-BYPASS", "occurredAt": null, "kind": "no_payload", "area": null, "details": { "reason": "vendor_empty_frame" } },
+    { "id": "B-E-BAD", "device": {}, "siteId": "PTY-NORTH", "occurredAt": "2026-07-07T10:28:00+07:00", "kind": "person_seen", "_fixtureCase": "missing_device_serial" }
+  ]
+}

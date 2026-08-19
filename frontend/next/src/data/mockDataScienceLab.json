@@ -1,0 +1,95 @@
+{
+  "experimentCards": [
+    {
+      "experimentId": "EXP-AB-GREETING",
+      "title": "Greeting Script A/B Test",
+      "focus": "Compare friendly mascot greeting vs direct product offer",
+      "status": "Running",
+      "owner": "Data Science Lab",
+      "result": "+8.4% engagement lift",
+      "accent": "purple"
+    },
+    {
+      "experimentId": "EXP-ROUTE-FROZEN",
+      "title": "Frozen Aisle Route Optimization",
+      "focus": "Reduce idle movement while keeping customer exposure high",
+      "status": "Review",
+      "owner": "Robotics Team",
+      "result": "-12% route time",
+      "accent": "blue"
+    },
+    {
+      "experimentId": "EXP-DETECTION-FAMILY",
+      "title": "Family Group Detection Tuning",
+      "focus": "Improve eligibility score for family shoppers near Mini Corner",
+      "status": "Planned",
+      "owner": "Computer Vision",
+      "result": "Target +5% precision",
+      "accent": "orange"
+    }
+  ],
+  "modelMetricCards": [
+    {
+      "label": "Detection Precision",
+      "value": "91.8%",
+      "change": "+2.1%",
+      "accent": "green"
+    },
+    {
+      "label": "Engagement Prediction",
+      "value": "84.5%",
+      "change": "+3.4%",
+      "accent": "blue"
+    },
+    {
+      "label": "Obstacle Recall",
+      "value": "96.2%",
+      "change": "stable",
+      "accent": "green"
+    },
+    {
+      "label": "Route Efficiency",
+      "value": "88.0%",
+      "change": "+4.7%",
+      "accent": "purple"
+    }
+  ],
+  "sensorLogCards": [
+    {
+      "time": "16:42:11",
+      "robotId": "CP-R01",
+      "sensor": "Camera",
+      "signal": "Customer group detected",
+      "confidence": "94%",
+      "status": "Normal",
+      "accent": "green"
+    },
+    {
+      "time": "16:40:25",
+      "robotId": "CP-R02",
+      "sensor": "LiDAR",
+      "signal": "Obstacle 0.72 m ahead",
+      "confidence": "98%",
+      "status": "Warning",
+      "accent": "orange"
+    },
+    {
+      "time": "16:37:54",
+      "robotId": "CP-R01",
+      "sensor": "Microphone",
+      "signal": "FAQ intent detected",
+      "confidence": "86%",
+      "status": "Normal",
+      "accent": "blue"
+    },
+    {
+      "time": "16:35:18",
+      "robotId": "CP-R02",
+      "sensor": "Wheel Encoder",
+      "signal": "Speed adjusted for crowd",
+      "confidence": "92%",
+      "status": "Normal",
+      "accent": "purple"
+    }
+  ]
+}

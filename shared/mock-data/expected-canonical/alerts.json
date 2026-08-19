@@ -1,0 +1,6 @@
+[
+  { "alert_id": "supplier-a:A-ALR-9001", "supplier_id": "supplier-a", "source_alert_id": "A-ALR-9001", "branch_id": "CPH-CNX-001", "robot_id": "CPH-CNX-001-R01", "alert_type": "battery_low", "severity": "high", "status": "open", "raised_at": "2026-07-07T10:21:05+07:00", "message": "Battery below 20 percent during active route" },
+  { "alert_id": "supplier-a:A-ALR-9002", "supplier_id": "supplier-a", "source_alert_id": "A-ALR-9002", "branch_id": "CPH-HDY-001", "robot_id": "CPH-HDY-001-R01", "alert_type": "blocked_path", "severity": "critical", "status": "open", "raised_at": "2026-07-07T10:20:12+07:00", "message": "Robot stopped due to obstacle at 0.34m" },
+  { "alert_id": "supplier-b:B-A-3103", "supplier_id": "supplier-b", "source_alert_id": "B-A-3103", "branch_id": "CPH-KKC-001", "robot_id": "CPH-KKC-001-R01", "alert_type": "offline", "severity": "medium", "status": "acknowledged", "raised_at": "2026-07-07T09:46:10+07:00", "message": "Device heartbeat stale" },
+  { "alert_id": "supplier-c:C-A-702", "supplier_id": "supplier-c", "source_alert_id": "C-A-702", "branch_id": "CPH-HDY-001", "robot_id": "CPH-HDY-001-R01", "alert_type": "blocked_path", "severity": "critical", "status": "open", "raised_at": "2026-07-07T10:26:52+07:00", "message": "Obstacle stop at 0.29m" }
+]

@@ -1,0 +1,12 @@
+[
+  { "branch_code": "CPH-BKK-001", "map_rev": "A-MAP-2026-07-01", "floor": 1, "zones": ["ENTRANCE", "BEVERAGE", "FROZEN", "FRESH", "MINI_CORNER", "PROMOTION", "CHECKOUT", "CHARGING"], "route_points": [[8,70],[20,58],[46,47],[68,57],[86,45],[95,45]] },
+  { "branch_code": "CPH-BKK-002", "map_rev": "A-MAP-2026-07-01", "floor": 1, "zones": ["ENTRANCE", "BEVERAGE", "HOUSEHOLD", "FROZEN", "CHECKOUT", "CHARGING"], "route_points": [[10,72],[23,62],[39,50],[62,50],[79,60],[90,48]] },
+  { "branch_code": "CPH-CNX-001", "map_rev": "A-MAP-2026-07-02", "floor": 1, "zones": ["ENTRANCE", "FRESH", "BAKERY", "FROZEN", "CHARGING"], "route_points": [[9,69],[26,54],[43,38],[61,44],[88,48]] },
+  { "branch_code": "CPH-HDY-001", "map_rev": "A-MAP-2026-07-02", "floor": 1, "zones": ["ENTRANCE", "MINI_CORNER", "PROMOTION", "CHECKOUT", "CHARGING"], "route_points": [[8,71],[25,59],[50,55],[62,45],[91,45]] },
+  { "branch_code": "CPH-KKC-001", "map_rev": "A-MAP-2026-07-03", "floor": 1, "zones": ["ENTRANCE", "FROZEN", "BEVERAGE", "HOUSEHOLD", "CHECKOUT", "CHARGING"], "route_points": [[11,70],[28,56],[47,48],[65,58],[86,47]] },
+  { "branch_code": "CPH-PKT-001", "map_rev": "A-MAP-2026-07-03", "floor": 1, "zones": ["ENTRANCE", "FRESH", "SEAFOOD", "FROZEN", "CHECKOUT", "CHARGING"], "route_points": [[10,69],[25,52],[44,45],[66,55],[88,44]] },
+  { "branch_code": "CPH-PTY-001", "map_rev": "A-MAP-2026-07-03", "floor": 1, "zones": ["ENTRANCE", "PROMOTION", "SNACKS", "BEVERAGE", "CHECKOUT", "CHARGING"], "route_points": [[9,72],[22,55],[39,50],[58,42],[82,50]] },
+  { "branch_code": "CPH-NMA-001", "map_rev": "A-MAP-2026-07-04", "floor": 1, "zones": ["ENTRANCE", "FRESH", "FROZEN", "HOUSEHOLD", "CHECKOUT", "CHARGING"], "route_points": [[8,70],[21,61],[42,49],[63,52],[89,46]] },
+  { "branch_code": "CPH-SRT-001", "map_rev": "A-MAP-2026-07-04", "floor": 1, "zones": ["ENTRANCE", "FRESH", "BEVERAGE", "BAKERY", "CHECKOUT", "CHARGING"], "route_points": [[12,73],[29,60],[48,48],[70,52],[90,43]] },
+  { "branch_code": "CPH-UBN-001", "map_rev": "A-MAP-2026-07-04", "floor": 1, "zones": ["ENTRANCE", "FROZEN", "SNACKS", "MINI_CORNER", "CHECKOUT", "CHARGING"], "route_points": [[9,70],[24,56],[45,51],[67,44],[91,46]] }
+]

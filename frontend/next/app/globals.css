@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #071226 0%, #040914 55%, #030712 100%);
+  color: #e8f2ff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.control-card {
+  border: 1px solid rgba(83, 125, 184, 0.25);
+  background: linear-gradient(180deg, rgba(16, 31, 59, 0.92), rgba(8, 17, 35, 0.96));
+  box-shadow: inset 0 1px 0 rgba(138, 185, 255, 0.08), 0 14px 42px rgba(0, 0, 0, 0.28);
+}
+
+.thin-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #31557d transparent;
+}
+
+.thin-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.thin-scrollbar::-webkit-scrollbar-thumb {
+  background: #31557d;
+  border-radius: 99px;
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "zone_id": "ZONE-ENTRANCE",
+    "zone_name": "Entrance",
+    "zone_type": "entry",
+    "description": "Customer entry and route start",
+    "color": "cyan",
+    "position": { "x": -7.2, "y": 0.05, "z": 4.8 },
+    "label_position": { "x": -7.4, "y": 1.8, "z": 4.2 },
+    "size": { "width": 2.4, "depth": 1.4 },
+    "status": "normal"
+  },
+  {
+    "zone_id": "ZONE-FROZEN",
+    "zone_name": "Frozen Food",
+    "zone_type": "refrigerated_aisle",
+    "description": "Refrigerated Aisle",
+    "color": "blue",
+    "position": { "x": -5.5, "y": 0.05, "z": -2.8 },
+    "label_position": { "x": -6.2, "y": 2.2, "z": -3.2 },
+    "size": { "width": 4.5, "depth": 2.2 },
+    "status": "active"
+  },
+  {
+    "zone_id": "ZONE-PROMOTION",
+    "zone_name": "Promotion Zone",
+    "zone_type": "active_promotion",
+    "description": "Active Promotion",
+    "color": "purple",
+    "position": { "x": -0.4, "y": 0.05, "z": 1.8 },
+    "label_position": { "x": -2.6, "y": 2.1, "z": 1.1 },
+    "size": { "width": 4.2, "depth": 2.4 },
+    "status": "high_engagement"
+  },
+  {
+    "zone_id": "ZONE-MINI",
+    "zone_name": "Mini Corner",
+    "zone_type": "high_traffic_corner",
+    "description": "High Traffic Area",
+    "color": "green",
+    "position": { "x": 4.8, "y": 0.05, "z": -1.8 },
+    "label_position": { "x": 5.7, "y": 2.2, "z": -0.8 },
+    "size": { "width": 3.2, "depth": 2.4 },
+    "status": "high_engagement"
+  },
+  {
+    "zone_id": "ZONE-FRESH-MEAT",
+    "zone_name": "Fresh Meat",
+    "zone_type": "fresh_market",
+    "description": "Fresh product aisle",
+    "color": "red",
+    "position": { "x": 2.6, "y": 0.05, "z": 3.0 },
+    "label_position": { "x": 3.4, "y": 2.0, "z": 3.4 },
+    "size": { "width": 3.2, "depth": 1.8 },
+    "status": "normal"
+  },
+  {
+    "zone_id": "ZONE-BEVERAGE",
+    "zone_name": "Beverage Zone",
+    "zone_type": "beverage_aisle",
+    "description": "Beverage and promo drinks",
+    "color": "cyan",
+    "position": { "x": 6.3, "y": 0.05, "z": 1.0 },
+    "label_position": { "x": 6.4, "y": 2.0, "z": 1.6 },
+    "size": { "width": 2.8, "depth": 2.0 },
+    "status": "normal"
+  },
+  {
+    "zone_id": "ZONE-CHECKOUT",
+    "zone_name": "Checkout Area",
+    "zone_type": "checkout",
+    "description": "Checkout counters",
+    "color": "slate",
+    "position": { "x": 5.8, "y": 0.05, "z": 4.8 },
+    "label_position": { "x": 5.8, "y": 1.8, "z": 4.2 },
+    "size": { "width": 3.4, "depth": 1.4 },
+    "status": "normal"
+  },
+  {
+    "zone_id": "ZONE-CHARGING",
+    "zone_name": "Charging Station",
+    "zone_type": "robot_charging",
+    "description": "Robot charging dock",
+    "color": "green",
+    "position": { "x": -7.4, "y": 0.05, "z": 3.8 },
+    "label_position": { "x": -7.6, "y": 1.8, "z": 3.2 },
+    "size": { "width": 1.2, "depth": 1.0 },
+    "status": "normal"
+  }
+]

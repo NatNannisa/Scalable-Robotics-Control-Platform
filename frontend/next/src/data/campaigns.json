@@ -1,0 +1,26 @@
+[
+  {
+    "campaign_id": "CMP-SHRIMPY-JOY",
+    "campaign_name": "Shrimpy Joy",
+    "campaign_name_th": "ชริมปี้ จอย",
+    "product_id": "PROD-SHRIMP-NUGGET",
+    "status": "approved",
+    "theme": "Frozen seafood sampling",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-30",
+    "target_conversion_percent": 28,
+    "assigned_branch_ids": ["BR-BANGNA", "BR-ONLINE-TEST"]
+  },
+  {
+    "campaign_id": "CMP-MISSION-SPACE",
+    "campaign_name": "Mission to Space",
+    "campaign_name_th": "มิชชั่น ทู สเปซ",
+    "product_id": "PROD-SPACE-SNACK",
+    "status": "approved",
+    "theme": "Kids snack engagement",
+    "start_date": "2026-06-05",
+    "end_date": "2026-07-05",
+    "target_conversion_percent": 24,
+    "assigned_branch_ids": ["BR-CHIANGMAI"]
+  }
+]

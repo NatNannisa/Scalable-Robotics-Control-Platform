@@ -1,0 +1,4 @@
+[
+  { "branch_id": "BR-BANGNA", "campaign_id": "CMP-SHRIMPY-JOY", "product_id": "PROD-SHRIMP-NUGGET", "baseline_sales": 82000, "campaign_sales": 95844, "sales_uplift_percent": 16.9, "gross_margin": 31200, "robot_cost": 9800, "roi_score": 3.18 },
+  { "branch_id": "BR-CHIANGMAI", "campaign_id": "CMP-MISSION-SPACE", "product_id": "PROD-SPACE-SNACK", "baseline_sales": 54000, "campaign_sales": 60372, "sales_uplift_percent": 11.8, "gross_margin": 18400, "robot_cost": 7600, "roi_score": 2.42 }
+]

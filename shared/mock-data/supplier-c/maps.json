@@ -1,0 +1,16 @@
+{
+  "schema": "c-legacy-v3",
+  "cols": ["sid", "rev", "fl", "zones", "pts"],
+  "rows": [
+    ["C001", "C-REV-01", 1, ["entrance", "beverage", "frozen", "fresh", "mini_corner", "promotion", "checkout", "charging"], [[8,70],[20,58],[46,47],[68,57],[86,45],[95,45]]],
+    ["C002", "C-REV-01", 1, ["entrance", "beverage", "household", "frozen", "checkout", "charging"], [[10,72],[23,62],[39,50],[62,50],[79,60],[90,48]]],
+    ["C003", "C-REV-02", 1, ["entrance", "fresh", "bakery", "frozen", "charging"], [[9,69],[26,54],[43,38],[61,44],[88,48]]],
+    ["C004", "C-REV-02", 1, ["entrance", "mini_corner", "promotion", "checkout", "charging"], [[8,71],[25,59],[50,55],[62,45],[91,45]]],
+    ["C005", "C-REV-03", 1, ["entrance", "frozen", "beverage", "household", "checkout", "charging"], [[11,70],[28,56],[47,48],[65,58],[86,47]]],
+    ["C006", "C-REV-03", 1, ["entrance", "fresh", "seafood", "frozen", "checkout", "charging"], [[10,69],[25,52],[44,45],[66,55],[88,44]]],
+    ["C007", "C-REV-03", 1, ["entrance", "promotion", "snacks", "beverage", "checkout", "charging"], [[9,72],[22,55],[39,50],[58,42],[82,50]]],
+    ["C008", "C-REV-04", 1, ["entrance", "fresh", "frozen", "household", "checkout", "charging"], [[8,70],[21,61],[42,49],[63,52],[89,46]]],
+    ["C009", "C-REV-04", 1, ["entrance", "fresh", "beverage", "bakery", "checkout", "charging"], [[12,73],[29,60],[48,48],[70,52],[90,43]]],
+    ["C010", "C-REV-04", 1, ["entrance", "frozen", "snacks", "mini_corner", "checkout", "charging"], [[9,70],[24,56],[45,51],[67,44],[91,46]]]
+  ]
+}

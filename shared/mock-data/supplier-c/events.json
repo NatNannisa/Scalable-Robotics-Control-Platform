@@ -1,0 +1,14 @@
+{
+  "schema": "c-legacy-v3",
+  "eventLegend": { "ZE": "zone_entered", "CD": "customer_detected", "SP": "script_played", "LB": "battery_low", "BS": "blocked_stop", "ND": "no_data" },
+  "cols": ["eid", "rid", "sid", "ts", "typ", "zn", "v"],
+  "rows": [
+    ["C-E-001", "C-R01", "C001", 1783394971000, "ZE", "beverage", { "step": 4, "speed": 0.6 }],
+    ["C-E-002", "C-R01", "C001", 1783394992000, "CD", "beverage", { "d": 1.7, "a": 11, "cf": 0.92 }],
+    ["C-E-003", "C-R01", "C001", 1783395010000, "SP", "beverage", { "scr": "C-SCR-BEV-01", "cmp": "C-CMP-0726" }],
+    ["C-E-004", "C-R03", "C003", 1783394865000, "LB", "charging", { "bt": 16, "th": 20 }],
+    ["C-E-005", "C-R04", "C004", 1783394812000, "BS", "mini_corner", { "od": 0.29 }],
+    ["C-E-006", "C-R06", "C006", null, "ND", null, { "why": "blank_frame" }],
+    [null, "C-R02", "C002", 1783394920000, "ZE", "frozen", { "case": "missing_event_id" }]
+  ]
+}

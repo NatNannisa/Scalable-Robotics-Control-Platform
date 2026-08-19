@@ -1,0 +1,12 @@
+[
+  { "branch_code": "CPH-BKK-001", "branch_name": "CP Hypermarket Bangna", "region": "Bangkok East", "store_tier": "flagship", "timezone": "Asia/Bangkok", "lat": 13.6679, "lng": 100.6331 },
+  { "branch_code": "CPH-BKK-002", "branch_name": "CP Hypermarket Rangsit", "region": "Bangkok North", "store_tier": "large", "timezone": "Asia/Bangkok", "lat": 14.0342, "lng": 100.6176 },
+  { "branch_code": "CPH-CNX-001", "branch_name": "CP Hypermarket Chiang Mai", "region": "North", "store_tier": "large", "timezone": "Asia/Bangkok", "lat": 18.7883, "lng": 98.9853 },
+  { "branch_code": "CPH-HDY-001", "branch_name": "CP Hypermarket Hat Yai", "region": "South", "store_tier": "standard", "timezone": "Asia/Bangkok", "lat": 7.0086, "lng": 100.4747 },
+  { "branch_code": "CPH-KKC-001", "branch_name": "CP Hypermarket Khon Kaen", "region": "Northeast", "store_tier": "large", "timezone": "Asia/Bangkok", "lat": 16.4419, "lng": 102.8359 },
+  { "branch_code": "CPH-PKT-001", "branch_name": "CP Hypermarket Phuket", "region": "South", "store_tier": "standard", "timezone": "Asia/Bangkok", "lat": 7.8804, "lng": 98.3923 },
+  { "branch_code": "CPH-PTY-001", "branch_name": "CP Hypermarket Pattaya", "region": "East", "store_tier": "tourist", "timezone": "Asia/Bangkok", "lat": 12.9236, "lng": 100.8825 },
+  { "branch_code": "CPH-NMA-001", "branch_name": "CP Hypermarket Korat", "region": "Northeast", "store_tier": "standard", "timezone": "Asia/Bangkok", "lat": 14.9799, "lng": 102.0977 },
+  { "branch_code": "CPH-SRT-001", "branch_name": "CP Hypermarket Surat Thani", "region": "South", "store_tier": "standard", "timezone": "Asia/Bangkok", "lat": 9.1382, "lng": 99.3215 },
+  { "branch_code": "CPH-UBN-001", "branch_name": "CP Hypermarket Ubon Ratchathani", "region": "Northeast", "store_tier": "standard", "timezone": "Asia/Bangkok", "lat": 15.2448, "lng": 104.8473 }
+]

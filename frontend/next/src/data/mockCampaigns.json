@@ -1,0 +1,24 @@
+[
+  {
+    "campaign_id": "CMP-202606-CORN",
+    "campaign_name": "Golden Crunch Sampling",
+    "store_id": "MKR-NI",
+    "product_id": "PRD-CORN-NUG",
+    "product_name": "Corn Nugget Stick",
+    "sampling_period": "8 Jun 2026, 16:00-19:00",
+    "objective": "Increase trial and collect shopper FAQ signals for frozen snack launch.",
+    "status": "active",
+    "script_th": "สวัสดีค่ะ วันนี้น้องชิมมีนักเก็ตสติ๊กข้าวโพดให้ลองชิมนะคะ กรอบ อร่อย ทานคู่กับซอสมะเขือเทศได้เลยค่ะ"
+  },
+  {
+    "campaign_id": "CMP-202606-UFARM",
+    "campaign_name": "Fresh Meat Confidence",
+    "store_id": "MKR-NI",
+    "product_id": "PRD-UFARM",
+    "product_name": "U-Farm Pork Product",
+    "sampling_period": "8 Jun 2026, 17:00-19:00",
+    "objective": "Educate shoppers on product freshness and recipe fit.",
+    "status": "queued",
+    "script_th": "สินค้า U-Farm สด สะอาด เหมาะสำหรับมื้อเย็นของครอบครัวค่ะ"
+  }
+]

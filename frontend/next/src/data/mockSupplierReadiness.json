@@ -1,0 +1,18 @@
+[
+  {
+    "supplier": "CP Foods",
+    "campaign_id": "CMP-202606-CORN",
+    "stock_ready": true,
+    "sampling_staff_ready": true,
+    "recipe_assets_ready": true,
+    "robot_script_approved": true
+  },
+  {
+    "supplier": "U-Farm",
+    "campaign_id": "CMP-202606-UFARM",
+    "stock_ready": true,
+    "sampling_staff_ready": false,
+    "recipe_assets_ready": true,
+    "robot_script_approved": true
+  }
+]

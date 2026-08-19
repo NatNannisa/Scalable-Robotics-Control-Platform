@@ -1,0 +1,12 @@
+{
+  "batchId": "B-FLEET-20260707-1030",
+  "devices": [
+    { "unitSerial": "B-UNIT-9001", "siteId": "BKK-BANGNA", "modelName": "BeaconBot Pro", "health": "ok", "power": { "percent": 88, "charging": false }, "location": { "zoneName": "beverage", "pos": { "xPct": 44.2, "yPct": 53.1 }, "bearing": 94 }, "telemetry": { "lastPing": "2026-07-07T10:29:45+07:00", "latencyMs": 180 } },
+    { "unitSerial": "B-UNIT-9002", "siteId": "BKK-RANGSIT", "modelName": "BeaconBot Pro", "health": "degraded", "power": { "percent": 41, "charging": false }, "location": { "zoneName": "frozen", "pos": { "xPct": 35.0, "yPct": 62.4 }, "bearing": 130 }, "telemetry": { "lastPing": "2026-07-07T10:28:40+07:00", "latencyMs": 950 } },
+    { "unitSerial": "B-UNIT-9003", "siteId": "CNX-MUEANG", "modelName": "BeaconBot Pro", "health": "charge_low", "power": { "percent": 15, "charging": false }, "location": { "zoneName": "charging", "pos": { "xPct": 86.8, "yPct": 46.8 }, "bearing": 270 }, "telemetry": { "lastPing": "2026-07-07T10:28:30+07:00", "latencyMs": 210 } },
+    { "unitSerial": "B-UNIT-9004", "siteId": "HDY-CENTRAL", "modelName": "BeaconBot Lite", "health": "blocked", "power": { "percent": 64, "charging": false }, "location": { "zoneName": "mini_corner", "pos": { "xPct": 58.4, "yPct": 45.5 }, "bearing": 12 }, "telemetry": { "lastPing": "2026-07-07T10:27:54+07:00", "latencyMs": 240 } },
+    { "unitSerial": "B-UNIT-9005", "siteId": "KKC-MITTRAPHAP", "modelName": "BeaconBot Pro", "health": "lost", "power": { "percent": 51, "charging": false }, "location": null, "telemetry": { "lastPing": "2026-07-07T09:41:10+07:00", "latencyMs": null } },
+    { "unitSerial": "B-UNIT-9006", "siteId": "PKT-BYPASS", "modelName": "BeaconBot Pro", "health": "empty", "power": null, "location": null, "telemetry": { "lastPing": null, "latencyMs": null } },
+    { "unitSerial": "B-UNIT-BAD", "siteId": "PTY-NORTH", "modelName": "BeaconBot Pro", "health": "ok", "power": { "percent": "eighty" }, "_fixtureCase": "invalid_battery_type" }
+  ]
+}

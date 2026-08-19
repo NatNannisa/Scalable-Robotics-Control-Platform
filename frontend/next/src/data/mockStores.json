@@ -1,0 +1,16 @@
+[
+  {
+    "store_id": "MKR-NI",
+    "store_name": "Makro Nakorn In",
+    "format": "Hypermarket",
+    "city": "Bangkok",
+    "zones": ["Entrance", "Frozen Food", "Fresh Meat", "Mini Corner", "Promotion Zone", "Beverage Zone", "Checkout Area", "Charging Station"]
+  },
+  {
+    "store_id": "LOT-S50",
+    "store_name": "Lotus Sukhumvit 50",
+    "format": "Supercenter",
+    "city": "Bangkok",
+    "zones": ["Entrance", "Frozen Food", "Ready Meal", "Beverage Zone", "Checkout Area"]
+  }
+]

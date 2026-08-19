@@ -1,0 +1,10 @@
+[
+  { "robot_id": "A-RBT-001", "branch_code": "CPH-BKK-001", "robot_model": "AstraSampling-A2", "vendor_state": "RUNNING", "batt_pct": 82, "current_zone": "BEVERAGE", "route_id": "A-RTE-BKK-001", "hb_at": "2026-07-07T10:24:31+07:00", "x": 42.4, "y": 55.8, "heading_deg": 92 },
+  { "robot_id": "A-RBT-002", "branch_code": "CPH-BKK-002", "robot_model": "AstraSampling-A2", "vendor_state": "WARN", "batt_pct": 46, "current_zone": "FROZEN", "route_id": "A-RTE-BKK-002", "hb_at": "2026-07-07T10:22:18+07:00", "x": 31.1, "y": 61.2, "heading_deg": 118 },
+  { "robot_id": "A-RBT-003", "branch_code": "CPH-CNX-001", "robot_model": "AstraSampling-A2", "vendor_state": "LOW_BATT", "batt_pct": 17, "current_zone": "CHARGING", "route_id": "A-RTE-CNX-001", "hb_at": "2026-07-07T10:21:05+07:00", "x": 88.5, "y": 47.1, "heading_deg": 270 },
+  { "robot_id": "A-RBT-004", "branch_code": "CPH-HDY-001", "robot_model": "AstraSampling-A1", "vendor_state": "BLOCKED", "batt_pct": 61, "current_zone": "MINI_CORNER", "route_id": "A-RTE-HDY-001", "hb_at": "2026-07-07T10:20:12+07:00", "x": 59.7, "y": 44.0, "heading_deg": 5 },
+  { "robot_id": "A-RBT-005", "branch_code": "CPH-KKC-001", "robot_model": "AstraSampling-A2", "vendor_state": "OFFLINE", "batt_pct": 53, "current_zone": null, "route_id": "A-RTE-KKC-001", "hb_at": "2026-07-07T09:42:10+07:00", "x": null, "y": null, "heading_deg": null },
+  { "robot_id": "A-RBT-006", "branch_code": "CPH-PKT-001", "robot_model": "AstraSampling-A2", "vendor_state": "NO_SIGNAL", "batt_pct": null, "current_zone": null, "route_id": "A-RTE-PKT-001", "hb_at": null, "x": null, "y": null, "heading_deg": null },
+  { "robot_id": "", "branch_code": "CPH-PTY-001", "robot_model": "AstraSampling-A2", "vendor_state": "RUNNING", "batt_pct": 74, "current_zone": "PROMOTION", "route_id": "A-RTE-PTY-001", "hb_at": "2026-07-07T10:19:01+07:00", "_fixture_case": "malformed_missing_robot_id" },
+  { "robot_id": "A-RBT-BAD-TIME", "branch_code": "CPH-NMA-001", "robot_model": "AstraSampling-A2", "vendor_state": "RUNNING", "batt_pct": 77, "current_zone": "FRESH", "route_id": "A-RTE-NMA-001", "hb_at": "07-07-2026 10:19", "_fixture_case": "malformed_timestamp" }
+]

@@ -1,0 +1,167 @@
+{
+  "liveActivityFeed": [
+    {
+      "time": "16:42",
+      "robotId": "CP-R01",
+      "branch": "CP Hypermarket Rama 2",
+      "type": "customer_detected",
+      "title": "พบลูกค้าใกล้โซนอาหารทะเลแช่แข็ง",
+      "detail": "Robot 01 เริ่มบทสนทนา Shrimp Joy",
+      "severity": "success"
+    },
+    {
+      "time": "16:40",
+      "robotId": "CP-R02",
+      "branch": "CP Hypermarket Bangna",
+      "type": "script_played",
+      "title": "เล่นสคริปต์ Mission to Space",
+      "detail": "เด็กและครอบครัวหยุดดูสินค้า 18 วินาที",
+      "severity": "info"
+    },
+    {
+      "time": "16:37",
+      "robotId": "CP-R01",
+      "branch": "CP Hypermarket Rama 2",
+      "type": "sampling_interest",
+      "title": "ลูกค้าสนใจทดลองชิม",
+      "detail": "Shrimp Joy sample accepted near Frozen Food",
+      "severity": "success"
+    },
+    {
+      "time": "16:34",
+      "robotId": "CP-R02",
+      "branch": "CP Hypermarket Bangna",
+      "type": "obstacle_detected",
+      "title": "พบสิ่งกีดขวางในทางเดิน",
+      "detail": "ชะลอความเร็วและเปลี่ยน lane อัตโนมัติ",
+      "severity": "warning"
+    },
+    {
+      "time": "16:29",
+      "robotId": "CP-R01",
+      "branch": "CP Hypermarket Rama 2",
+      "type": "route_completed",
+      "title": "วนครบเส้นทางรอบที่ 2",
+      "detail": "Route completion 68%",
+      "severity": "info"
+    }
+  ],
+  "robots": [
+    {
+      "robotId": "CP-R01",
+      "name": "Robot 01",
+      "campaign": "Shrimp Joy",
+      "branch": "CP Hypermarket Rama 2",
+      "zone": "Frozen Food",
+      "status": "Live",
+      "battery": 91,
+      "currentAction": "ชวนลูกค้าทดลองชิม",
+      "speed": "0.6 m/s",
+      "safety": "Safe",
+      "accent": "green"
+    },
+    {
+      "robotId": "CP-R02",
+      "name": "Robot 02",
+      "campaign": "Mission to Space",
+      "branch": "CP Hypermarket Bangna",
+      "zone": "Mini Corner",
+      "status": "Live",
+      "battery": 84,
+      "currentAction": "เล่นสคริปต์แคมเปญ",
+      "speed": "0.4 m/s",
+      "safety": "Obstacle nearby",
+      "accent": "orange"
+    }
+  ],
+  "branchPins": [
+    {
+      "branch": "CP Hypermarket Rama 2",
+      "city": "Bangkok",
+      "x": 58,
+      "y": 62,
+      "onlineRobots": 1,
+      "campaign": "Shrimp Joy",
+      "status": "Live"
+    },
+    {
+      "branch": "CP Hypermarket Bangna",
+      "city": "Bangkok",
+      "x": 72,
+      "y": 55,
+      "onlineRobots": 1,
+      "campaign": "Mission to Space",
+      "status": "Live"
+    },
+    {
+      "branch": "CP Hypermarket Chiang Mai",
+      "city": "Chiang Mai",
+      "x": 38,
+      "y": 28,
+      "onlineRobots": 0,
+      "campaign": "Standby",
+      "status": "Ready"
+    }
+  ],
+  "kpiCards": [
+    {
+      "label": "Customers Detected",
+      "value": "128",
+      "change": "+18%",
+      "accent": "blue"
+    },
+    {
+      "label": "Sampling Conversion",
+      "value": "26.6%",
+      "change": "+6.3%",
+      "accent": "green"
+    },
+    {
+      "label": "Product Interest",
+      "value": "34",
+      "change": "+6",
+      "accent": "purple"
+    },
+    {
+      "label": "Active Robots",
+      "value": "2/2",
+      "change": "Live",
+      "accent": "green"
+    },
+    {
+      "label": "Alerts",
+      "value": "3",
+      "change": "1 warning",
+      "accent": "orange"
+    }
+  ],
+  "alerts": [
+    {
+      "time": "16:34",
+      "priority": "warning",
+      "title": "Obstacle near Mini Corner",
+      "owner": "Operations",
+      "branch": "CP Hypermarket Bangna",
+      "robotId": "CP-R02",
+      "status": "Monitoring"
+    },
+    {
+      "time": "16:18",
+      "priority": "info",
+      "title": "Route delay from customer crowd",
+      "owner": "Store Team",
+      "branch": "CP Hypermarket Rama 2",
+      "robotId": "CP-R01",
+      "status": "Resolved"
+    },
+    {
+      "time": "16:05",
+      "priority": "critical",
+      "title": "Sampling tray refill required",
+      "owner": "Promoter",
+      "branch": "CP Hypermarket Rama 2",
+      "robotId": "CP-R01",
+      "status": "Assigned"
+    }
+  ]
+}

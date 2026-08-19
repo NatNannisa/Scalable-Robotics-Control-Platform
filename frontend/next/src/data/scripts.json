@@ -1,0 +1,35 @@
+[
+  {
+    "script_id": "SCRIPT-SHRIMP-INVITE",
+    "campaign_id": "CMP-SHRIMPY-JOY",
+    "product_id": "PROD-SHRIMP-NUGGET",
+    "zone_id": "ZONE-FROZEN",
+    "title": "Shrimpy Joy Invitation",
+    "language": "th-TH",
+    "status": "approved",
+    "duration_sec": 20,
+    "script_text": "สวัสดีครับ ลองชิม Shrimpy Joy ฟรีวันนี้ไหมครับ โปรซื้อ 2 แถม 1 เฉพาะสัปดาห์นี้"
+  },
+  {
+    "script_id": "SCRIPT-SPACE-INVITE",
+    "campaign_id": "CMP-MISSION-SPACE",
+    "product_id": "PROD-SPACE-SNACK",
+    "zone_id": "ZONE-PROMO",
+    "title": "Mission to Space Invitation",
+    "language": "th-TH",
+    "status": "approved",
+    "duration_sec": 18,
+    "script_text": "พร้อมออกภารกิจอวกาศกับ CP ไหมครับ ร่วมกิจกรรมสั้น ๆ และดูโปรโมชันได้เลย"
+  },
+  {
+    "script_id": "SCRIPT-SHRIMP-FAQ",
+    "campaign_id": "CMP-SHRIMPY-JOY",
+    "product_id": "PROD-SHRIMP-NUGGET",
+    "zone_id": "ZONE-FROZEN",
+    "title": "Shrimpy Joy FAQ",
+    "language": "th-TH",
+    "status": "pending",
+    "duration_sec": 24,
+    "script_text": "สินค้านี้เหมาะสำหรับทอดหรืออบ ใช้เวลาสั้น รสชาติเข้มข้น และเก็บในช่องแช่แข็ง"
+  }
+]

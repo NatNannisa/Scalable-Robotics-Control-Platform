@@ -1,0 +1,166 @@
+{
+  "kpiOverview": [
+    {
+      "label": "Customers Approached",
+      "value": "90",
+      "change": "+12%",
+      "accent": "blue"
+    },
+    {
+      "label": "Sampling Conversion",
+      "value": "26.6%",
+      "change": "+6.3%",
+      "accent": "green"
+    },
+    {
+      "label": "Sales Uplift Proxy",
+      "value": "+14.8%",
+      "change": "vs baseline",
+      "accent": "purple"
+    },
+    {
+      "label": "Best Branch",
+      "value": "Rama 2",
+      "change": "Shrimp Joy",
+      "accent": "green"
+    },
+    {
+      "label": "Campaign Score",
+      "value": "87",
+      "change": "Strong",
+      "accent": "blue"
+    }
+  ],
+  "engagementFunnel": [
+    {
+      "stage": "Detected",
+      "value": 128,
+      "rate": "100%"
+    },
+    {
+      "stage": "Approached",
+      "value": 90,
+      "rate": "70.3%"
+    },
+    {
+      "stage": "Script Played",
+      "value": 86,
+      "rate": "67.2%"
+    },
+    {
+      "stage": "Sampling Interest",
+      "value": 34,
+      "rate": "26.6%"
+    },
+    {
+      "stage": "Product Interest",
+      "value": 24,
+      "rate": "18.8%"
+    },
+    {
+      "stage": "Sales Proxy",
+      "value": 14,
+      "rate": "10.9%"
+    }
+  ],
+  "trendChart": [
+    {
+      "time": "10:00",
+      "engagementRate": 18,
+      "samplingConversion": 9
+    },
+    {
+      "time": "11:00",
+      "engagementRate": 24,
+      "samplingConversion": 12
+    },
+    {
+      "time": "12:00",
+      "engagementRate": 22,
+      "samplingConversion": 11
+    },
+    {
+      "time": "13:00",
+      "engagementRate": 31,
+      "samplingConversion": 17
+    },
+    {
+      "time": "14:00",
+      "engagementRate": 36,
+      "samplingConversion": 19
+    },
+    {
+      "time": "15:00",
+      "engagementRate": 42,
+      "samplingConversion": 23
+    },
+    {
+      "time": "16:00",
+      "engagementRate": 49,
+      "samplingConversion": 27
+    }
+  ],
+  "zoneRanking": [
+    {
+      "rank": 1,
+      "zone": "Frozen Food",
+      "score": 92,
+      "topProduct": "Shrimp Joy",
+      "accent": "blue"
+    },
+    {
+      "rank": 2,
+      "zone": "Mini Corner",
+      "score": 88,
+      "topProduct": "Mission to Space",
+      "accent": "purple"
+    },
+    {
+      "rank": 3,
+      "zone": "Promotion Zone",
+      "score": 81,
+      "topProduct": "Shrimp Joy",
+      "accent": "green"
+    },
+    {
+      "rank": 4,
+      "zone": "Beverage Zone",
+      "score": 64,
+      "topProduct": "Ready Drink",
+      "accent": "orange"
+    },
+    {
+      "rank": 5,
+      "zone": "Checkout",
+      "score": 51,
+      "topProduct": "Impulse Pack",
+      "accent": "red"
+    }
+  ],
+  "customerInsightCards": [
+    {
+      "title": "Peak Engagement Time",
+      "value": "16:00-17:00",
+      "detail": "Family traffic increased near frozen aisle",
+      "accent": "blue"
+    },
+    {
+      "title": "Top Product Interest",
+      "value": "Shrimp Joy",
+      "detail": "High response to tasting invitation",
+      "accent": "green"
+    },
+    {
+      "title": "Behavior Pattern",
+      "value": "Stops after mascot greeting",
+      "detail": "Best response when script starts under 5 seconds",
+      "accent": "purple"
+    },
+    {
+      "title": "Returning Interaction Proxy",
+      "value": "12%",
+      "detail": "Same aisle revisit within 20 minutes",
+      "accent": "orange"
+    }
+  ]
+}
